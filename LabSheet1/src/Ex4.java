@@ -14,6 +14,7 @@ public class Ex4 {
 		
 		System.out.println("The Harmonic Sum from Left to Right is :"+ l2r);
 		System.out.println("The Harmonic Sum from Right to Left is :"+ r2l);
+		System.out.println("The Difference between the two is :"+ (l2r-r2l));
 
 	}
 
